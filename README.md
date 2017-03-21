@@ -8,7 +8,7 @@ It was created using create-react-app (CRA).  Normal CRA steps to build and ejec
 * Feature tested in Chrome 56 adn Edge 38.
 * Final step in Checkout modal dialog is a print screen, which represents the printable receipt.
 * Basket is cleared and reset once you checkout and see print screen.
-* Left the sourcemap file, in the deployment folder so it can help code review.  Proper production we'd remove .map file from build folder.
+* Left the sourcemap file in the deployment folder so it can help code review.  Proper production we'd remove .map file from build folder.
 
 
 ## Installed dependency
