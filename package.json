@@ -37,7 +37,7 @@
     "eject": "react-scripts eject",
     "deploy": "yarn run build&&gh-pages -d build"
   },
-  "homepage": "https://github.com/RuairiSpain/fruit-basket",
+  "homepage": "https://RuairiSpain.github.com/fruit-basket",
   "eslintConfig": {
     "extends": "react-app"
   }
