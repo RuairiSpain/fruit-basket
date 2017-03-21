@@ -1,11 +1,14 @@
 ## Shopping basket app - React/Redux
 
-Product and Basket Single Page app, it was started from create-react-app (CRA).  Normal CRA steps to build and eject, small change: used yarn instead of npm. Illustrates React, Redux with most common design patterns: props, state, redux reducers/stores/selectors/middleware and bootstrap-react RWD.
+Product and Basket App, visit: https://ruairispain.github.io/fruit-basket/
+
+It was created using create-react-app (CRA).  Normal CRA steps to build and eject, small change: used yarn instead of npm. Illustrates React, Redux with most common design patterns: props, state, redux reducers/stores/selectors/middleware and bootstrap-react RWD.
 
 #### Notes:
 * Feature tested in Chrome 56 adn Edge 38.
 * Final step in Checkout modal dialog is a print screen, which represents the printable receipt.
 * Basket is cleared and reset once you checkout and see print screen.
+* Left the sourcemap file, in the deployment folder so it can help code review.  Proper production we'd remove .map file from build folder.
 
 
 ## Installed dependency
